@@ -1,0 +1,35 @@
+[07-Dec-2014 23:15:10 America/Chicago] PHP Fatal error:  Call to undefined function checkoutPagination() in /home4/wh5965/public_html/cardhappening.com/feature/checkoutConfirm.php on line 7
+[07-Dec-2014 23:19:35 America/Chicago] PHP Fatal error:  Call to undefined function checkoutPagination() in /home4/wh5965/public_html/cardhappening.com/feature/checkoutPayment.php on line 6
+[07-Dec-2014 23:25:12 America/Chicago] PHP Fatal error:  Call to undefined function checkoutPagination() in /home4/wh5965/public_html/cardhappening.com/feature/checkoutShipping.php on line 7
+[07-Dec-2014 23:25:48 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[08-Dec-2014 01:13:22 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[09-Dec-2014 16:00:50 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[16-Dec-2014 22:51:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[18-Dec-2014 18:59:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[18-Dec-2014 20:58:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[19-Dec-2014 02:51:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[19-Dec-2014 08:45:34 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[19-Dec-2014 13:39:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[19-Dec-2014 17:36:59 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[20-Dec-2014 00:30:56 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[22-Dec-2014 01:00:15 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[22-Dec-2014 06:55:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[24-Dec-2014 09:35:33 America/Chicago] PHP Fatal error:  Call to undefined function checkoutPagination() in /home4/wh5965/public_html/cardhappening.com/feature/checkoutComplete.php on line 9
+[08-Jan-2015 20:36:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[08-Jan-2015 20:36:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 41
+[08-Jan-2015 20:36:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 42
+[10-Jan-2015 11:13:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[10-Jan-2015 11:13:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 41
+[10-Jan-2015 11:13:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 42
+[13-Jan-2015 01:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[13-Jan-2015 01:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 41
+[13-Jan-2015 01:06:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 42
+[15-Jan-2015 04:57:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[15-Jan-2015 04:57:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 41
+[15-Jan-2015 04:57:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 42
+[16-Jan-2015 19:17:32 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[16-Jan-2015 19:17:32 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 41
+[16-Jan-2015 19:17:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 42
+[16-Jan-2015 19:23:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/productImagesOrder.php on line 5
+[16-Jan-2015 19:23:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 41
+[16-Jan-2015 19:23:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/wh5965/public_html/cardhappening.com/feature/orderDisplay.php on line 42

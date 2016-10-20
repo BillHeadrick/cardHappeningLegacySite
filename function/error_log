@@ -1,0 +1,8 @@
+[10-Dec-2014 19:58:17 America/Chicago] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 10
+[10-Dec-2014 20:01:56 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 10
+[10-Dec-2014 20:03:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 13
+[10-Dec-2014 20:05:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 14
+[10-Dec-2014 20:09:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 14
+[10-Dec-2014 20:09:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 14
+[10-Dec-2014 20:12:44 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 10
+[10-Dec-2014 20:38:43 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/wh5965/public_html/cardhappening.com/function/confirmationEmail.php on line 24

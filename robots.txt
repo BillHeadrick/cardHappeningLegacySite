@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /braintree-php-2.34.0/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /feature/
+Disallow: /function/
+Disallow: /images/
+Disallow: /javascript/
+Disallow: /plugin/
